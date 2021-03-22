@@ -1,0 +1,5 @@
+rootProject.name = 'spi_study'
+include 'jdk_test'
+include 'dubbo_test'
+include 'zero.mgy.api'
+
